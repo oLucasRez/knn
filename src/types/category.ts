@@ -5,3 +5,5 @@ export type Category =
   | 'Aventura'
   | 'Suspense'
   | 'Romance';
+
+  //clonei certinho?
